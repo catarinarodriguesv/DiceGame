@@ -26,7 +26,7 @@ Step into the world of a simple yet captivating text-based dice game! This Pytho
 Get ready for an exciting gaming experience! Follow these steps to set up and run the text-based dice game project on your computer.
 
 ### Prerequisites
-- Python 3.x installed on your system.
+- Python 3 or superior installed on your system.
 - Terminal.
 
 ### Installation and configuration 
